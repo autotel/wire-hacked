@@ -1,0 +1,1 @@
+wire library. trying to hack it so slaves can also listen to all other slave's emissions
